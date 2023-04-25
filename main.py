@@ -1,5 +1,5 @@
 """This is the main module to run the app"""
-pip install sklearn
+
 # Importing the necessary Python modules.
 import streamlit as st
 
